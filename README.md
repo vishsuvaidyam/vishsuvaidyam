@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning Full Stack  MEAN Developer 
 - 👯 I’m looking to collaborate on Learning based Projects 
 - 💬 Ask me about Full Stack Developer 
-- 📫 How to reach me: Email:- abhishek.singh@suvaidyam.com 
+- 📫 How to reach me: Email:- vish.suvaidyam@gmail.com
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
 # 📊 GitHub Stats:
