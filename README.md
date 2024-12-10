@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 
 - 🔭 I’m currently working on Suvaidyam 
-- 🌱 I’m currently learning Full Stack  MEAN Developer 
+- 🌱 I’m currently learning Full Stack Frappe Developer 
 - 👯 I’m looking to collaborate on Learning based Projects 
 - 💬 Ask me about Full Stack Developer 
 - 📫 How to reach me: Email:- vish.suvaidyam@gmail.com
